@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: 40575d8d723255e44ba5faa7fe202e3f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Die
+    second: {fileID: 7400000, guid: 9c498560bf0265b40a29cc06afc1fb75, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Hit
+    second: {fileID: 7400000, guid: 55299b2b2be7a9a4c847e215e18e2419, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Idle
+    second: {fileID: 7400000, guid: 6e647fdaf0da3634d9a32a97bba6e994, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Roar
+    second: {fileID: 7400000, guid: da3eac167497a4c4fb27cedcde3be011, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Skill 1
+    second: {fileID: 7400000, guid: a002fc7f5193d4b479629fcf7ae67937, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Skill 2
+    second: {fileID: 7400000, guid: 9127622da4e7fb8469db3a9a30650fbc, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Skill 3
+    second: {fileID: 7400000, guid: df2b2b7994eb90844921ba38a343dcf6, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Skill 4
+    second: {fileID: 7400000, guid: 509204d213d3bb2458a21b97394db318, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Skill 5
+    second: {fileID: 7400000, guid: c73687ef00b34d846b31e744670618b5, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
