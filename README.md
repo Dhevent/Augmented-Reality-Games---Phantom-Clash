@@ -76,6 +76,18 @@ Combat relies on a predictive **Triangle Counter System**. Victory requires read
 
 ---
 
+## 📱 Download & Play on Mobile
+
+Want to test the game directly on your Android device without building it in Unity?
+
+👉 **[Download Latest APK (v1.0.0)](https://github.com/Dhevent/Augmented-Reality-Games---Phantom-Clash/releases)**
+
+1. Download the `.apk` file to your Android phone.
+2. Install the application (allow installation from unknown sources if prompted).
+3. Open the app, grant camera permission, and start scanning target cards!
+
+---
+
 ## 🎴 Target Cards & Assets
 
 Printable target cards used for scanning can be found inside the project directory:
