@@ -6,11 +6,11 @@
 
 ## 🎥 Demo Video
 
-Check out the gameplay in action:
+Watch the live gameplay demo of **Phantom Clash** on Google Drive:
 
-[![Phantom Clash Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+[![Watch Demo Video](https://img.shields.io/badge/Google_Drive-Watch_Demo_Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1vHslomFlUJnfMH-hIxtbnbiWzTxllFDe/view?usp=sharing)
 
-*(Ganti `YOUR_YOUTUBE_VIDEO_ID` dengan ID video YouTube kamu, atau drag & drop file video MP4 kamu langsung ke editor README di GitHub)*
+👉 [Click here to watch the gameplay demo video](https://drive.google.com/file/d/1vHslomFlUJnfMH-hIxtbnbiWzTxllFDe/view?usp=sharing)
 
 ---
 
